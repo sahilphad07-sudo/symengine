@@ -2,6 +2,7 @@ name: symengine
 channels:
   - conda-forge
 dependencies:
+  - python=3.10
   - xeus-cling
   - llvmdev=5
   - gmp
